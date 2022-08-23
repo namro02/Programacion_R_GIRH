@@ -4,3 +4,6 @@ Desarrollo de proyectos para el curso de Programación en R para la maestría GI
 
 # Encabezado nivel 1
 
+## Encabezado n 2
+
+
