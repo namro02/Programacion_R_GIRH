@@ -2,5 +2,5 @@
 
 Desarrollo de proyectos para el curso de Programación en R para la maestría GIRH. 
 
-#Encabezado nivel 1
+# Encabezado nivel 1
 
