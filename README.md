@@ -9,3 +9,7 @@ Desarrollo de proyectos para el curso de Programación en R para la maestría GI
 ###### Encabezado 6
 
 
+
+**texto en negrita**
+
+
