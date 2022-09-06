@@ -1,4 +1,4 @@
-# Programacion_R_GIRH
+# Perfil Académico
 
 Desarrollo de proyectos para el curso de Programación en R para la maestría GIRH. 
 
